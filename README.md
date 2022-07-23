@@ -1,7 +1,7 @@
 # TexasLaborStatisticsAPICall
-A script I wrote at two in the morning to automate the download of Texas Labor Statistics Supply Reports. 
+A script I wrote that automate the download of Texas Labor Statistics Supply Reports. 
 The example API request in ex.py downloads the reports for all Technical Schools/Universities in Texas. 
-Downloads of other data will require looking at API requests through something like DevTools XHR tab.
+Downloads of other data will require looking at API requests through something like the XHR tab in a browser's DevToolssection.
 
 ## Setup
 First, clone this repository (or optionally download the zip and extract the files), and then open the repository's root directory:
