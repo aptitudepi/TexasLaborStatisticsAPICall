@@ -13,7 +13,7 @@ Install prerequisites:
 ```shell
 pip3 install requests
 ```
-And execute the script! This should take ~15 minutes on a PC with a sownload speed of 4 MB/s
+And execute the script! This should take ~15 minutes on a PC with a download speed of 4 MB/s
 ```shell
 python3 ex.py
 ```
